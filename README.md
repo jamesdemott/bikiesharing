@@ -39,5 +39,5 @@ This chart shows us that men are more likely to be subsrcibers than women and th
 
 ### Trip Starting Location 
 This map evidences where the most-used station for trip starts are. Unsurprisingly, most trips begin in lower Manhattan and or Midtown East. 
-![Trips by Starting Location] (https://github.com/jamesdemott/bikiesharing/blob/main/Screenshots/Screen%20Shot%202021-01-14%20at%2012.42.19%20PM.png)
+![Trips by Starting Location](https://github.com/jamesdemott/bikiesharing/blob/main/Screenshots/Screen%20Shot%202021-01-14%20at%2012.42.19%20PM.png)
 
